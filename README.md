@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @hakambing
-- 👀 I’m interested in data science
+- 👀 I’m interested in data science and software engineering
 - 🌱 I’m currently learning to be a full stack developer
-- 💞️ I’m looking to collaborate on ig
 - 📫 How to reach me @hakambing on ig
 
 <!---
